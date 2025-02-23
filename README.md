@@ -7,5 +7,5 @@ It is a skirmish level game in which each figure represents one man. It is desig
 * And here's [a video tutorial](https://www.youtube.com/watch?v=zIoGbrTVED8) showing the basics of gameplay.
 
 ## How to install and use the army builder
-Download the ravenfeast.htm and run it on your favourite browser.
+Download the index.htm and run it on your favourite browser.
 Or, just try it on https://primarchofistanbul.github.io/ravenfeast/
